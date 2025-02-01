@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vimanshu
-- 👀 I’m interested in AI/ML and cybersecurity.
-- 🌱 I’m currently learning AI/ML and deep learning models.
-- 💞️ I’m looking to collaborate on AI space.
+- 👀 I’m interested in Design Engineering and Marketing product/ideas.
+- 🌱 I’m currently working as an intern in Finance Consulting.
+- 💞️ I’m looking to collaborate on Finance, Design, Marketing concepts.
 - 📫 How to reach me -vimanshuchandra@icloud.com
 
 <!---
